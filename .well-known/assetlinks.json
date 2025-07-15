@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.madukaonline.app",
+      "sha256_cert_fingerprints": [
+        "F6:3F:EC:DF:0C:46:6F:BE:FF:74:7C:1A:D2:68:86:79:65:B3:EC:35:4A:9C:6B:A5:D3:70:E1:BC:E2:18:2D:7F"
+      ]
+    }
+  }
+]
